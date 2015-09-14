@@ -7,6 +7,7 @@ A guide for back-end development at the CFPB.
 ## Guides
 
 - [The front-end team's code review guide](https://github.com/cfpb/front-end/blob/master/code-reviews.md)
+- [Django Settings](django_settings.md)
 
 ## Our Core Values
 
