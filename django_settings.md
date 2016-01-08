@@ -79,6 +79,7 @@ DATABASES = {
             'PASSWORD': {{ db_password }},
             'HOST': {{ db_host }},  
             'PORT': {{ db_port }},  
+            {{ db_ssl_options}},
         },
 }
 ```
